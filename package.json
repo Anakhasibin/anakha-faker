@@ -6,7 +6,7 @@
 
   "description": "little tiers",
 
-  "main": "http_server.js",
+  "main": "http-server.js",
   
   "scripts": {
 
